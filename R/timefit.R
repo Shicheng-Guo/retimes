@@ -16,6 +16,7 @@ histestim <- function(x,smoothing=NULL)
 
 # Stima il picco di una distribuzione valutando le distanze tra ogni x e tutti gli altri
 # dati all'interno di un intervallo costruito intorno allo stesso x:
+# lamda is adaptable and optimized
 distestim <- function(x,smoothing=NULL)
 {
     if(is.null(smoothing))
