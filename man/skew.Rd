@@ -19,7 +19,7 @@ The skewness is calculated as: \eqn{k_{3} / k_{2}^{1.5}}, where \eqn{k_{2}} and 
 respectively the second and the third moment of the distribution.
 }
 
-\value{The skewness index.}
+\value{The skewness index..}
 
 \author{Davide Massidda \email{davide.massidda@humandata.it}}
 
